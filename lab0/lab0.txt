@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1 style="color:blue;text-align:center;">This is a Heading</h1>
+<p>This is a paragraph.</p>
+
+<pstyle="font-family:courier;"> <h3>hi my name is<br>shahad najee<br> </h3>
+
+<h2> my age is <mark> 20 </mark> years old </h2>
+
+<p>Here is a quote from WWF's website:</p>
+<blockquote cite="http://www.worldwildlife.org/who/index.html">
+For 50 years, WWF has been protecting the future of nature.
+The world's leading conservation organization,
+WWF works in 100 countries and is supported by
+1.2 million members in the United States and
+close to 5 million globally.
+</blockquote>
+
+<pre> <h3> hi good morning (: </pre> <h3>
+<a href="https://www.google.com.com"> <p>this is link </p>
+</body>
+</html>
