@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Website (:</title>
+<style>
+.courses {
+  background-color: purple;
+  color: white;
+  margin: 20px;
+  padding: 20px;
+} 
+</style>
+</head>
+<body>
+
+<h1 tagname style="property:value;">My Name is Shahad</h1>
+<hr>
+<h2>I love this course </h2>
+<hr>
+<p> this is my first website </p>
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
+
+
+
+</style>
+<table style="width:100%">
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th> 
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>shahad</td>
+    <td>Najee</td> 
+    <td>20</td>
+  </tr>
+  <tr>
+    <td>hind</td>
+    <td>adnan</td> 
+    <td>25</td>
+  </tr>
+<tr>
+    <td>joud</td>
+    <td>alhrbi</td> 
+    <td>22</td>
+  </tr>
+</table>
+<a href="https://www.w3schools.com"> <p>this is link if you want learn HTML </p>
+<img src="https://openclipart.org/image/2400px/svg_to_png/69331/HTML-Icon-Final.png" alt="html logo" style="width:500px;height:600px;">
+
+
+<div class="courses">
+  <h2>internet technology</h2>
+  <p>about html and website.</p>
+</div>
+
+<div class="courses">
+  <h2>data structre</h2>
+  <p>about java programming.</p>
+</div>
+
+
+
+</body>
+</html>
