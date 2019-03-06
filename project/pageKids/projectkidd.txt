@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<body style="background-image:url('cloud.jpg');">
+<div style="background-color:yellow; color:black; padding:20px;">
+  <h2>оее ЧссУинЧс</h2>
+<p>оее ЧсУинЧс хц Ьфг уф УЬфЧг УЯШ Чсинс цУхухЧ нфёј УЯШэ бЧођЁ эуЪсп уоцуЧЪ нфэЩ ЮЧеЩЁ эоцу ксь уЬуцкЩ уф ЧсЭцЧЯЫ ЧсуЪбЧШиЩЁ угЪцЭЧЩ уф ЧсцЧок Уц ЧсЮэЧсЁ Уц псЧхуЧЁ (Ьфгё УЯШэ фЫбэ оееэЁ уцЬѓјх Хсь ЧсинсЁ усЧЦу скЧсухЁ эжуѕј ЭпЧэЩ дЧЦоЩЁ сэг схЧ уцжцк уЭЯѓјЯ Уц ицс укэѓјфЁ дЮеэЧЪхЧ цЧжЭЩ ЧсУнкЧсЁ слЪхЧ угЪуЯЩ уф укЬу ЧсинсЁ ЪибЭ оэуЩ жуфэЩЁ цЪкШіјб кф улвь аэ УгЧг ЪбШцэЁ угЪуЯ уф ксу фнг Чсинс.) 
+Ъцнб упЪШЩ Чсинс ЧсуеЧЯб ЧсЪксэуэЩ цЧсЫоЧнэЩ цЧсЪбнэхэЩ ссУинЧс уф гф 6Хсь 15гфЩЁ цхэ Ъжу уцЧЯ ШкЯЩ слЧЪ цЪдус уцжцкЧЪ пЫэбЩ Ё уф Чснфцф Хсь ксу ЧсЭэцЧф Чсь ЧсухЧбЧЪ ЧсуЮЪснЩ</p>
+</div>
+<!--
+<img src="IMG-2131.jpg" height="333" width="250"/>
+  <a href="https://drive.google.com/file/d/1-GSmD94ZnLYz8TcBBocAoQBvQrIY5VJl/view" class="btn btn-info" role="button">собЧСЩ Чсоех Чжли хфЧ</a>
+<img src="IMG-2134.jpg" height="333" width="250"/ Align="right">
+<div align="right">
+<a href="https://drive.google.com/file/d/1Y2r8Ioq4_TQy88HEQLRJao9lT-rpv0fI/view" class="btn btn-info" role="button">собЧСЩ Чсоех Чжли хфЧ</a>
+</div>
+<img src="law.jpg" height="333" width="250"/>
+<a href="https://drive.google.com/file/d/1Zh792LP1GMcf1pTO9obKOBFG8H6TbXwx/view" class="btn btn-info" role="button">собЧСЩ Чсоех Чжли хфЧ</a>
+<img src="lab3.jpg" height="333" width="250"/ Align="right">
+<div align="right">
+<a href="https://drive.google.com/file/d/10vis5t-mq0sFY6xRNBZSpuVBIvAV_9wt/view" class="btn btn-info" role="button">собЧСЩ Чсоех Чжли хфЧ</a>
+</div>
+<img src="houd.jpg" height="333" width="250"/>
+<a href="http://www.kutubpdfcafee.com/kutucafe1/kttub1/Booksstream_k33_Book1TF38.pdf" class="btn btn-info" role="button">собЧСЩ Чсоех Чжли хфЧ</a>
+<img src="nou7.jpg" height="333" width="250"/ Align="right">
+<div align="right">
+<a href="http://www.kutubpdfcafee.com/kutucafe1/kttub1/Booksstream_k33_Book1TF36.pdf" class="btn btn-info" role="button">собЧСЩ Чсоех Чжли хфЧ</a>
+</div>
+-->
+<a href="https://drive.google.com/file/d/1-GSmD94ZnLYz8TcBBocAoQBvQrIY5VJl/view" >
+<img src="IMG-2131.jpg" height="333" width="250"> </a>
+<a href="https://drive.google.com/file/d/1Y2r8Ioq4_TQy88HEQLRJao9lT-rpv0fI/view" >
+<img src="IMG-2134.jpg" height="333" width="250"> </a>
+<div align="right">
+
+</body>
+</html>

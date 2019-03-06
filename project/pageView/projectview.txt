@@ -1,0 +1,23 @@
+<DOCTYBE html>
+<html>
+<body style="background-image:url('sh1.jpg');">
+<div style="background-color:black; color:white; padding:20px;">
+  <h2>гд б« нё—¬ гд «бћеб б« н»—¬</h2>
+  <p>” Џ—Ё «дя ё—¬  я «»«р ћнѕ«рЏдѕг«  ёб» «б’ЁЌ… «б¬ќн—… ж Ќ” я¬дя Ёёѕ  ’ѕнё«р ѕ\»ећ  ”гЏ«д.</p>
+  <p>нћ» √д дё—√ бд“нѕ гд ёж д« «б≈д”«д «б–н нё—√ еж ≈д”«д гЁЏг »«бЌн«… ж«бя «» г«еж ≈б« жЏ«Ѕ гд дж— нё»Џ »нд нѕн гд нё—√ «б‘«Џ—\Џ“—« »«ждѕ.</p>
+  <p>«бё—«Ѕ…  гдЌд« гя«д«р «ќ— д–е» «бне Џдѕг« д÷Ў— бб»ё«Ѕ Ён √г«ядд« «бя« »\г«”жд яжбн.</p>
+  </div>
+  <img src="sh6.jpg" height="330" width="250"/>
+  <a href="http://books-library.online/files/download-pdf-ebooks.org-kupd-2583.pdf" class="btn btn-info" role="button">ббё—«Ѕе</a>
+<img src="sh5.jpg" height="330" width="250"/ Align="right">
+<div align="right">
+<a href="https://www.hindawi.org/books/19595390.pdf" class="btn btn-info" role="button">ббё—Ѕе</a>
+</div>
+<img src="sh4.jpg" height="333" width="250"/>
+<a href="https://d1.islamhouse.com/data/ar/ih_books/single_010/ar_Journey_to_Heaven.pdf" class="btn btn-info" role="button">ббё—«Ѕе</a>
+<img src="sh3.jpg" height="333" width="250"/ Align="right">
+<div align="right">
+<a href="https://www.noor-book.com/book/internal_download/4249b4b43dbaa04740bf0249701ea148/1" class="btn btn-info" role="button">ббё—«Ѕе</a>
+</html>
+</div>
+</body>
