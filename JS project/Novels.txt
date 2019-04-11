@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<style>
+body {
+  background-image: url("n4.jpg");
+background-repeat: no-repeat;
+ background-size: 100% 100%;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+ background-color: silver;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+</style>
+</head>
+<title>ÑæÇíÇÊ ÚÑÈíÉ</title>
+<body>
+
+<div style="background-color:brown; color:white; padding:20px;">
+   <h2>ÇáÑæÇíÉ</h2>                                                                                                                                                                                   
+  <p>ÇáÑæÇíÉ åí İäñø ãä İäæä ÇáÃÏÈ¡ ÊÊÖãä ÇáÓÑ ááÃÍÏÇË äËÑíøÇğº æåĞÇ ÇáÓÑÏ íÕİ ÔÎÕíøÇÊò ÎíÇáíøÉ¡ Ãæ æÇŞÚíøÉ¡ Ãæ ãÒíÌÇğ ãä ßáíåãÇ¡ Åáì ÌÇäÈ ÚÑÖ ÇáÃÍÏÇË ÈØÑíŞÉò ãõÊÑÇÈØÉò æãõÊÓáÓáÉ¡ æÊõÚÏõø ÇáÑæÇíÉ ÃØæá ÇáŞÕÕ æÃßÈÑåÇ ÍÌãÇğº ÍíËõ ÊÊÚÏøÏ ÇáÔÎÕíÇÊ İí ÇáÑæÇíÉ¡ æÊßËÑ ÇáæŞÇÆÚ æÊÊäæÚ¡ æÃæøá ãÇ ÙåÑÊ ÇáÑæÇíÉ İí ÃæÑæÈÇ¡ Ëã ÇäÊŞáÊ Åáì ÈÇŞí Ïæá ÇáÚÇáã.
+</p>
+</div>
+<ul>
+  <li><a class="active" href="javascript.html">ÇáÕİÍÉ ÇáÑÆíÓíå</a></li>
+  <li><a href="pkid.html">ŞÕÕ ÃØİÇá</a></li>
+</ul>  
+  <img src="Books.jpg"  width="250" height="333" >
+  <a href="file:///C:/Users/mc/Desktop/%D9%85%D8%AC%D9%84%D8%AF%20%D8%AC%D8%AF%D9%8A%D8%AF/books.pdf.pdf" class="btn btn-info" role="button">áŞÑÇÁÉ ÇáŞÕå ÇÖÛØ åäÇ</a>
+  
+<div align="right">
+<img src="rana.jpg"  width="250" height="333" align=" right " >
+  <a href="file:///C:/Users/mc/Desktop/%D9%85%D8%AC%D9%84%D8%AF%20%D8%AC%D8%AF%D9%8A%D8%AF/book8.pdf.pdf" class="btn btn-info" role="button">áŞÑÇÁÉ ÇáŞÕå ÇÖÛØ åäÇ</a>
+ </div> 
+  
+ <img src="Books_ITIT55.jpg"  width="250" height="333">
+ <a href="file:///C:/Users/mc/Desktop/%D9%85%D8%AC%D9%84%D8%AF%20%D8%AC%D8%AF%D9%8A%D8%AF/Book2.pdf" class="btn btn-info" role="button">áŞÑÇÁÉ ÇáŞÕå ÇÖÛØ åäÇ</a>
+  
+<div align="right">  
+<img src="Books_IT3LI2.jpg"  width="250" height="333" align="right">
+<a href="file:///C:/Users/mc/Desktop/%D9%85%D8%AC%D9%84%D8%AF%20%D8%AC%D8%AF%D9%8A%D8%AF/Book.pdf.pdf" class="btn btn-info" role="button">áŞÑÇÁÉ ÇáŞÕå ÇÖÛØ åäÇ</a>
+</div>
+
+</body>
+</html>

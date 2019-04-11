@@ -1,0 +1,70 @@
+﻿<DOCTYBE html>
+
+<html>
+
+<head>
+<script>
+function validateForm() {
+  var x = document.forms["myForm"]["fname"].value;
+  if (x == "") {
+    alert("Name must be filled out");
+    return false;
+  }
+}
+</script>
+</head>
+<meta charset="UTF-8">
+
+Body {
+
+Background-color:white, 
+}
+
+<body>
+<form name="myForm" action="/action_page.php" onsubmit="return validateForm()" method="post">
+  Name: <input type="text" name="fname">
+  <input type="submit" value="Submit">
+</form>
+
+<div style="background-color:white; color:black; padding:23px;">
+
+<img src="sh1.jpg" height="360" width="1220"/>
+
+  <h2>من لا يقرآ من الجهل لا يبرآ</h2>
+
+  <h2>ستعرف انك قرآت كتاباً جيداًعندما تقلب الصفحة الآخيرة وتحس كآنك فقدت صديقاً د\بهجت سمعان.</h2>
+
+  <h2>يجب أن نقرأ لنزيد من قوتنا الإنسان الذي يقرأ هو إنسان مفعم بالحياة والكتاب ماهو إلا وعاء من نور يقبع بين يدي من يقرأ الشاعر\عزرا باوند.</h2>
+
+  <h2>القراءة تمنحنا مكاناً اخر نذهب اليه عندما نضطر للبقاء في أماكننا الكاتب\ماسون كولي.</h2>
+
+  </div>
+ 
+ <img src="sh6.jpg" height="330" width="250"/>
+
+
+  <a href="http://books-library.online/files/download-pdf-ebooks.org-kupd-2583.pdf" class="btn btn-info" role="button">للقراءه</a>
+
+<img src="sh5.jpg" height="330" width="250"/ Align="right">
+
+<div align="right">
+
+<a href="https://www.hindawi.org/books/19595390.pdf" class="btn btn-info" role="button">للقرءه</a>
+
+</div>
+<img src="sh4.jpg" height="333" width="250"/>
+
+<a href="https://d1.islamhouse.com/data/ar/ih_books/single_010/ar_Journey_to_Heaven.pdf" class="btn btn-info" role="button">للقراءه</a>
+
+<img src="sh3.jpg" height="333" width="250"/ Align="right">
+
+<div align="right">
+
+<a href="https://www.noor-book.com/book/internal_download/4249b4b43dbaa04740bf0249701ea148/1" class="btn btn-info" role="button">للقراءه</a>
+
+
+</div>
+
+</body>
+
+</html>
